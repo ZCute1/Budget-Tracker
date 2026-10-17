@@ -10,7 +10,7 @@ A gamified, interactive personal budgeting web app rooted in Ron Blue's biblical
 ## ✨ Features
 
 * **Biblical Stewardship Framework:** Categorize spending into the four core biblical buckets: **Live**, **Give**, **Owe**, and **Grow** (*"God owns it all"*).
-* **Tinder-Style Transaction Sorting:** Swipe, tap, or use arrow keys to sort incoming bank statements and expenses.
+* **Gamified Transaction Sorting:** Swipe, tap, or use arrow keys to sort incoming bank statements and expenses.
 * **Goals & Safe-to-Spend Tracker:** Set monthly income and bucket targets to calculate essential living expenses, monthly flex left, and weekly safe-to-spend allowances.
 * **Gamified Visual Feedback:**
   * **Daily Tip Jar:** Fills with coins as you designate money toward savings.
